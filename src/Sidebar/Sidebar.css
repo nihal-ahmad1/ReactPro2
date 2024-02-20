@@ -1,0 +1,8 @@
+.SideSpace{
+    display: flex;
+    gap: 20px 
+}
+.Linkkk{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,98 @@
+.cards
+{
+    display:flex ;
+    flex-direction: row;
+    gap: 20px;
+    padding-top: 70px;
+    padding-left: 40px;
+
+}
+
+.tabss
+{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.container-tabs
+{
+    padding-top: 30px;
+    text-align: center;
+    border-top: 2px solid skyblue;
+}
+
+.numbers
+{
+    text-align: end;
+}
+
+.card{
+    width: 20%;
+}
+.div-container
+{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.cards-header
+{
+    padding-left: 35px;
+}
+
+.card1
+{
+    height: 70px;
+    width: 50px;
+    background-color: orange;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card2
+{
+    height: 70px;
+    width: 50px;
+    background-color: skyblue;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card3
+{
+    height: 70px;
+    width: 50px;
+    background-color: red;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card4
+{
+    height: 70px;
+    width: 50px;
+    background-color: skyblue;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.colorActive{
+    background-color: skyblue;
+}

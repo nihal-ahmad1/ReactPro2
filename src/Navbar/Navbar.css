@@ -1,0 +1,11 @@
+.navDrop{
+    color: red;
+    margin-left: 346px;
+    color: black;
+}
+.bellIcon{
+    display: flex;
+    gap: 10px;
+    color: black;
+    text-decoration: none;
+}
